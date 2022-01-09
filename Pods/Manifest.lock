@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.5.0)
+  - CollectionViewSlantedLayout (3.1.1)
+  - ObjectMapper (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CollectionViewSlantedLayout
+  - ObjectMapper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CollectionViewSlantedLayout
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  CollectionViewSlantedLayout: 24397455acd2461960bc45d394e0ef99c17d03ce
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+
+PODFILE CHECKSUM: 6abbc2ce865f5876c41b3bfe441404c497f0b4a0
+
+COCOAPODS: 1.11.2
